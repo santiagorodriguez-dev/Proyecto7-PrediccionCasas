@@ -1,3 +1,7 @@
+   <div style="text-align: center;">
+      <img src="https://github.com/santiagorodriguez-dev/Proyecto7-PrediccionCasas/blob/main/images/imagen.png" alt="esquema" />
+   </div>
+
 # Proyecto: Predicción de Precios de Casas 🏠
 
 ## Introducción
@@ -32,6 +36,7 @@ El mercado inmobiliario es dinámico y está influenciado por múltiples variabl
    - imputar numericos outliers con mediana
      
    - Despues de testear RobustScaler, MinMaxScaler, Normalizer, StandardScaler, nos quedamos con Normalizer
+     para la estandarizacion.
 
 3. **Construcción del Modelo**
 
@@ -40,4 +45,32 @@ El mercado inmobiliario es dinámico y está influenciado por múltiples variabl
 4. **Visualización de Resultados**
 
    - Mejor resultado RandomForestRegressor.
+     
+     <div style="text-align: center;">
+        <img src="https://github.com/santiagorodriguez-dev/Proyecto7-PrediccionCasas/blob/main/images/R1.PNG" alt="esquema" />
+     </div>
+      <br>
+     <div style="text-align: center;">
+        <img src="https://github.com/santiagorodriguez-dev/Proyecto7-PrediccionCasas/blob/main/images/R2.PNG" alt="esquema" />
+     </div>
+      <br>
+      <div style="text-align: center;">
+        <img src="https://github.com/santiagorodriguez-dev/Proyecto7-PrediccionCasas/blob/main/images/output.png" alt="esquema" />
+     </div>
+     
+#### Propuestas de Mejora:
+   - Realizar varios modelos de pruebas, añadiendo, quitando columnas del dataset.
+  
+## Construido con 🛠️
+
+* [Pyhton](https://www.python.org/) - Lenguaje utilizado
+* [Numpy](https://numpy.org/doc/stable/) - Numpy
+* [seaborn](https://seaborn.pydata.org/tutorial.html) - Seaborn
+* [matplotlib](https://matplotlib.org/stable/users/index) - matplotlib
+* [pandas](https://pandas.pydata.org/docs/) - pandas
+* [Visual Studio Code](https://code.visualstudio.com/) - IDE desarrollo
+  
+## Autores ✒️
+
+* **Santiago Rodriguez** - [santiagorodriguez-dev](https://github.com/santiagorodriguez-dev)
 
