@@ -11,24 +11,36 @@ import math
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+def add_sufix(columnas, suf):
 
-def standar_datos (df):
+    salida = []
+    for i in columnas:
+        salida.append(i + suf)
+    
+    return salida
+
+
+def standar_datos(df,columnas):
 
     escalador_robust = RobustScaler()
-    datos_transf_robust = escalador_robust.fit_transform(df[["powerCV_knn", "kilometer_knn","yearOfRegistration_knn"]])
-    df[["powerCV_robust", "kilometer_Ratesrobust", "yearOfRegistration_Ratesrobust"]] = datos_transf_robust
+    datos_transf_robust = escalador_robust.fit_transform(df[columnas])
+    columnas_rename = add_sufix(columnas, "_robust")
+    df[columnas_rename] = datos_transf_robust
 
     escalador_min_max = MinMaxScaler()
-    datos_transf_min_max = escalador_min_max.fit_transform(df[["powerCV_knn", "kilometer_knn","yearOfRegistration_knn"]])
-    df[["powerCV_min_max", "kilometer_min_max", "yearOfRegistration_min_max"]]  = datos_transf_min_max
+    datos_transf_min_max = escalador_min_max.fit_transform(df[columnas])
+    columnas_rename = add_sufix(columnas, "_min_max")
+    df[columnas_rename]  = datos_transf_min_max
 
     escalador_norm = Normalizer()
-    datos_transf_norm = escalador_norm.fit_transform(df[["powerCV_knn", "kilometer_knn","yearOfRegistration_knn"]])
-    df[["powerCV_norm", "kilometer_norm", "yearOfRegistration_norm"]]  = datos_transf_norm
+    datos_transf_norm = escalador_norm.fit_transform(df[columnas])
+    columnas_rename = add_sufix(columnas, "_norm")
+    df[columnas_rename]  = datos_transf_norm
 
     escalador_estandar = StandardScaler()
-    datos_transf_estandar = escalador_estandar.fit_transform(df[["powerCV_knn", "kilometer_knn","yearOfRegistration_knn"]])
-    df[["powerCV_estandar", "kilometer_estandar", "yearOfRegistration_estandar"]]  = datos_transf_estandar
+    datos_transf_estandar = escalador_estandar.fit_transform(df[columnas])
+    columnas_rename = add_sufix(columnas, "_estandar")
+    df[columnas_rename]  = datos_transf_estandar
 
     return df
 
