@@ -102,7 +102,7 @@ class GestionOutliersUnivariados:
             df_outliers = self.dataframe[(self.dataframe[columna] < limite_inferior) | (self.dataframe[columna] > limite_superior)]
             if not df_outliers.empty:
                 diccionario_iqr[columna] = self.dataframe[self.dataframe.index.isin(df_outliers.index.tolist())]
-                print(f"La cantidad de outliers que tenemos para la columna {columna.upper()} es "
+                print(f"La cantidad de outliers que tenemos para la columna {columna} es "
                       f"{diccionario_iqr[columna].shape[0]}")
         return diccionario_iqr
 
