@@ -66,7 +66,7 @@ class Analisis_Visual_Encoding:
                         flierprops={'markersize': 4, 'markerfacecolor': 'orange'})
             axes[indice].tick_params(rotation=90)
 
-        fig.tight_layout()
+        #fig.tight_layout()
 
     def crear_barplot(self, paleta="viridis", tamano_grafica=(20, 10)):
         """
@@ -96,7 +96,7 @@ class Analisis_Visual_Encoding:
             axes[indice].legend('', frameon=False)
 
 
-        fig.tight_layout()
+        #fig.tight_layout()
 
 
 class Asunciones:
