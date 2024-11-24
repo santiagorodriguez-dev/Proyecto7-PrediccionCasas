@@ -1,0 +1,354 @@
+;price;propertyType;operation;size;exterior;rooms;bathrooms;municipality;showAddress;status;newDevelopment;floor;district;neighborhood;hasLift;hasParkingSpace;typology;subTypology;priceByArea
+0;750.0;flat;rent;60.0;True;1;1;Madrid;True;good;False;3;Hortaleza;Canillas;True;Unknown;flat;Unknown;13.0
+1;750.0;flat;rent;70.0;True;2;1;San Sebastián de los Reyes;False;good;False;bj;Centro Urbano;Unknown;False;Unknown;flat;Unknown;11.0
+2;400.0;penthouse;rent;67.0;True;2;2;Villamanrique de Tajo;False;good;False;2;Unknown;Unknown;False;Unknown;flat;penthouse;6.0
+3;590.0;flat;rent;70.0;True;3;2;Rascafría;False;good;False;Unknown;Unknown;Unknown;False;Unknown;flat;Unknown;8.0
+4;684.0;studio;rent;45.0;True;0;1;Madrid;True;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;13.294985250737463
+5;600.0;flat;rent;73.0;True;2;1;Manzanares el Real;False;good;False;3;Unknown;Unknown;False;Unknown;flat;Unknown;8.0
+6;600.0;duplex;rent;71.0;True;1;1;Miraflores de la Sierra;False;good;False;1;Unknown;Unknown;False;Unknown;flat;duplex;8.0
+7;550.0;flat;rent;53.0;True;1;1;Madrid;False;good;False;1;Puente de Vallecas;San Diego;False;Unknown;flat;Unknown;10.0
+8;700.0;studio;rent;28.0;True;0;1;Madrid;True;good;False;1;Ciudad Lineal;San Pascual;False;Unknown;flat;studio;25.0
+9;700.0;duplex;rent;86.0;True;2;1;Galapagar;False;good;False;3;Casco Antiguo;Unknown;True;Unknown;flat;duplex;8.0
+10;700.0;flat;rent;45.0;False;1;1;Madrid;False;good;False;5;Moncloa;Argüelles;False;Unknown;flat;Unknown;16.0
+11;550.0;flat;rent;54.0;True;2;1;Arganda;True;good;False;en;Centro;Unknown;False;Unknown;flat;Unknown;10.0
+12;695.0;flat;rent;64.0;True;2;1;San Sebastián de los Reyes;True;good;False;1;Centro Urbano;Unknown;False;Unknown;flat;Unknown;11.0
+13;650.0;flat;rent;68.0;True;2;1;San Lorenzo de el Escorial;False;good;False;bj;Centro - Casco Histórico;Unknown;False;Unknown;flat;Unknown;10.0
+14;700.0;flat;rent;30.0;False;1;1;Madrid;False;good;False;1;Retiro;Adelfas;True;Unknown;flat;Unknown;23.0
+15;700.0;flat;rent;35.0;False;1;1;Madrid;False;good;False;1;Arganzuela;Palos de Moguer;False;Unknown;flat;Unknown;20.0
+16;700.0;flat;rent;43.0;True;1;1;Madrid;False;good;False;2;Latina;Aluche;True;Unknown;flat;Unknown;16.0
+17;650.0;flat;rent;60.0;True;2;1;Madrid;True;good;False;1;Puente de Vallecas;San Diego;False;Unknown;flat;Unknown;11.0
+18;650.0;chalet;rent;206.0;False;3;1;Aldea del Fresno;False;good;False;Unknown;Unknown;Unknown;Unknown;Unknown;chalet;independantHouse;3.0
+19;700.0;flat;rent;105.0;True;3;2;Aranjuez;False;good;False;bj;Centro;Unknown;False;Unknown;flat;Unknown;7.0
+20;695.0;flat;rent;40.0;False;1;1;Madrid;False;good;False;4;Barrio de Salamanca;Goya;True;Unknown;flat;Unknown;17.0
+21;675.0;flat;rent;40.0;True;1;1;Villanueva del Pardillo;False;good;False;bj;Centro;Unknown;False;True;flat;Unknown;17.0
+22;750.0;studio;rent;45.0;False;0;1;Madrid;False;good;False;bj;Centro;Lavapiés-Embajadores;True;Unknown;flat;studio;17.0
+23;750.0;flat;rent;99.0;True;3;2;Aranjuez;False;good;False;1;Centro;Unknown;True;Unknown;flat;Unknown;8.0
+24;680.0;flat;rent;38.0;False;1;1;Madrid;True;good;False;1;Retiro;Pacífico;True;Unknown;flat;Unknown;18.0
+25;750.0;flat;rent;51.0;True;1;1;Madrid;False;good;False;1;Barajas;Timón;True;True;flat;Unknown;15.0
+26;750.0;penthouse;rent;60.0;True;1;1;Las Rozas de Madrid;False;good;False;2;Las Matas- Peñascales;Las Matas- Peñascales;False;Unknown;flat;penthouse;13.0
+27;750.0;studio;rent;25.0;False;0;1;Madrid;False;good;False;4;Centro;Chueca-Justicia;True;Unknown;flat;studio;30.0
+28;750.0;flat;rent;40.0;False;1;1;Madrid;False;good;False;1;Arganzuela;Palos de Moguer;False;Unknown;flat;Unknown;19.0
+29;650.0;flat;rent;62.0;True;2;1;Madrid;False;good;False;1;Latina;Águilas;False;Unknown;flat;Unknown;10.0
+30;750.0;studio;rent;30.0;True;0;1;Madrid;False;good;False;3;Centro;Lavapiés-Embajadores;False;Unknown;flat;studio;25.0
+31;750.0;flat;rent;39.0;False;1;1;Madrid;False;good;False;5;Chamberí;Trafalgar;False;Unknown;flat;Unknown;19.0
+32;700.0;flat;rent;62.0;True;2;1;Madrid;False;good;False;3;Villaverde;San Cristóbal;False;Unknown;flat;Unknown;11.0
+33;747.0;flat;rent;96.0;True;3;2;Navalcarnero;False;good;False;1;La Dehesa - El Pinar;Unknown;True;True;flat;Unknown;8.0
+34;640.0;studio;rent;35.0;True;0;1;Madrid;False;good;False;1;Villaverde;Butarque;True;True;flat;studio;18.0
+35;750.0;flat;rent;30.0;False;1;1;Madrid;False;good;False;st;Retiro;Ibiza;True;Unknown;flat;Unknown;25.0
+36;750.0;flat;rent;70.0;True;2;1;Alcalá de Henares;True;good;False;2;Reyes Católicos;Unknown;True;True;flat;Unknown;11.0
+37;625.0;flat;rent;52.0;True;2;1;El Escorial;True;good;False;2;Centro;Unknown;False;Unknown;flat;Unknown;12.0
+38;700.0;studio;rent;40.0;True;0;1;Madrid;False;good;False;3;Centro;Chueca-Justicia;True;Unknown;flat;studio;18.0
+39;750.0;studio;rent;40.0;True;0;1;Madrid;True;good;False;en;Arganzuela;Chopera;True;Unknown;flat;studio;19.0
+40;650.0;flat;rent;35.0;False;1;1;Madrid;False;good;False;2;Centro;Palacio;True;Unknown;flat;Unknown;19.0
+41;720.0;flat;rent;70.0;True;3;1;Alcalá de Henares;False;good;False;2;Chorrillo;Unknown;False;Unknown;flat;Unknown;10.0
+42;699.0;flat;rent;52.0;True;1;1;Madrid;True;good;False;3;Puente de Vallecas;Palomeras sureste;True;Unknown;flat;Unknown;13.0
+43;750.0;flat;rent;65.0;True;2;1;Leganés;False;good;False;Unknown;Valdepelayo - Montepinos - Arroyo Culebro;Valdepelayo-Montepinos-Arroyo Culebro;True;True;flat;Unknown;12.0
+44;695.0;flat;rent;65.0;True;2;1;Coslada;False;good;False;Unknown;Valleaguado - La Cañada;Unknown;True;Unknown;flat;Unknown;11.0
+45;750.0;flat;rent;78.0;True;2;2;Torrejón de Ardoz;False;good;False;Unknown;Suroeste;Unknown;True;True;flat;Unknown;10.0
+46;620.0;flat;rent;60.0;True;2;1;Madrid;False;good;False;Unknown;Villaverde;Villaverde Alto;False;Unknown;flat;Unknown;10.0
+47;500.0;studio;rent;28.0;False;0;1;Madrid;False;good;False;1;Centro;Lavapiés-Embajadores;False;Unknown;flat;studio;18.0
+48;550.0;flat;rent;38.0;True;1;1;Leganés;False;good;False;Unknown;Centro;Flores;False;Unknown;flat;Unknown;14.0
+49;750.0;flat;rent;46.0;False;1;1;Madrid;False;good;False;3;Arganzuela;Acacias;True;Unknown;flat;Unknown;16.0
+50;680.0;studio;rent;55.0;True;0;1;Madrid;False;good;False;bj;Ciudad Lineal;Ventas;False;Unknown;flat;studio;12.0
+51;700.0;flat;rent;50.0;True;1;2;Camarma de Esteruelas;False;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;13.294985250737463
+52;750.0;duplex;rent;35.0;True;1;1;Madrid;False;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;13.294985250737463
+53;750.0;flat;rent;66.0;True;2;1;Alcorcón;False;good;False;1;Centro;Zona Renfe;True;Unknown;flat;Unknown;11.0
+54;650.0;flat;rent;65.0;True;1;1;Alcalá de Henares;False;good;False;en;San Isidro - Los Almendros;Unknown;True;Unknown;flat;Unknown;10.0
+55;720.0;flat;rent;133.0;False;3;2;Pinto;False;good;False;1;San José - Buenos Aires;Unknown;True;True;flat;Unknown;5.0
+56;600.0;flat;rent;50.0;True;1;1;Valdemoro;False;good;False;Unknown;Hospital;Unknown;True;True;flat;Unknown;12.0
+57;650.0;flat;rent;61.0;True;1;1;Collado Villalba;False;good;False;2;Parque de la Coruña - Las Suertes;Unknown;True;True;flat;Unknown;11.0
+58;650.0;flat;rent;65.0;False;2;1;Alcorcón;False;good;False;3;Valderas - Los Castillos;Valderas - Los Castillos;False;Unknown;flat;Unknown;10.0
+59;700.0;flat;rent;45.0;True;1;1;Madrid;False;good;False;3;Barajas;Casco Histórico de Barajas;False;Unknown;flat;Unknown;16.0
+60;625.0;flat;rent;62.0;True;2;1;Getafe;False;good;False;bj;Getafe Centro;Unknown;False;Unknown;flat;Unknown;10.0
+61;595.0;flat;rent;45.0;True;1;1;Madrid;False;good;False;bj;Latina;Aluche;False;Unknown;flat;Unknown;13.0
+62;650.0;flat;rent;55.0;True;1;1;Madrid;False;good;False;4;San Blas;Rejas;True;True;flat;Unknown;12.0
+63;725.0;flat;rent;50.0;True;1;1;Madrid;False;good;False;2;Villaverde;Villaverde Alto;True;Unknown;flat;Unknown;15.0
+64;750.0;flat;rent;95.0;True;3;1;Alcalá de Henares;False;good;False;8;Reyes Católicos;Unknown;True;Unknown;flat;Unknown;8.0
+65;700.0;penthouse;rent;30.0;True;1;1;Madrid;True;good;False;1;San Blas;Rejas;True;Unknown;flat;penthouse;23.0
+66;700.0;flat;rent;27.0;False;1;1;Madrid;False;good;False;3;Centro;Lavapiés-Embajadores;False;Unknown;flat;Unknown;26.0
+67;650.0;flat;rent;59.0;True;2;1;Alcalá de Henares;False;good;False;1;Val;Unknown;True;Unknown;flat;Unknown;11.0
+68;550.0;flat;rent;40.0;True;1;1;Paracuellos de Jarama;False;good;False;3;Casco Urbano;Unknown;True;Unknown;flat;Unknown;14.0
+69;650.0;flat;rent;55.0;True;1;1;Madrid;False;good;False;4;San Blas;Rejas;True;True;flat;Unknown;12.0
+70;750.0;flat;rent;65.0;True;2;1;Madrid;False;good;False;Unknown;Ciudad Lineal;Pueblo Nuevo;True;Unknown;flat;Unknown;12.0
+71;725.0;flat;rent;70.0;True;2;1;Madrid;False;good;False;Unknown;Puente de Vallecas;Entrevías;True;Unknown;flat;Unknown;10.0
+72;700.0;flat;rent;80.0;True;1;1;Alcalá de Henares;False;good;False;1;Casco Histórico;Unknown;False;Unknown;flat;Unknown;9.0
+73;650.0;flat;rent;40.0;True;1;1;Madrid;True;good;False;bj;Barajas;Casco Histórico de Barajas;True;Unknown;flat;Unknown;16.0
+74;695.0;flat;rent;90.0;True;3;1;Madrid;False;good;False;Unknown;Villaverde;Los Rosales;False;Unknown;flat;Unknown;8.0
+75;750.0;flat;rent;55.0;True;1;1;Madrid;False;good;False;Unknown;Ciudad Lineal;Quintana;False;Unknown;flat;Unknown;14.0
+76;650.0;flat;rent;65.0;True;2;1;Madrid;False;good;False;Unknown;Latina;Águilas;True;Unknown;flat;Unknown;10.0
+77;666.0;flat;rent;70.0;True;1;2;Villanueva del Pardillo;False;good;False;1;Los Llanos - Valle Pardo;Unknown;True;True;flat;Unknown;10.0
+78;750.0;flat;rent;78.0;True;2;2;Alcalá de Henares;False;good;False;Unknown;Ensanche;Unknown;True;True;flat;Unknown;10.0
+79;630.0;flat;rent;74.0;True;3;1;El Molar;False;good;False;Unknown;Unknown;Unknown;True;Unknown;flat;Unknown;9.0
+80;635.0;studio;rent;55.0;True;0;1;Leganés;False;good;False;2;Valdepelayo - Montepinos - Arroyo Culebro;Valdepelayo-Montepinos-Arroyo Culebro;True;True;flat;studio;12.0
+81;725.0;flat;rent;69.0;True;2;1;Collado Villalba;True;good;False;1;Dehesa - El Soto;Unknown;True;True;flat;Unknown;11.0
+82;750.0;flat;rent;35.0;False;1;1;Madrid;True;good;False;1;Centro;Lavapiés-Embajadores;False;Unknown;flat;Unknown;21.0
+83;690.0;flat;rent;65.0;True;2;1;Madrid;True;good;False;3;Puente de Vallecas;San Diego;False;Unknown;flat;Unknown;11.0
+84;700.0;studio;rent;30.0;False;0;1;Madrid;True;good;False;2;Centro;Lavapiés-Embajadores;True;Unknown;flat;studio;23.0
+85;730.0;flat;rent;64.0;True;3;1;Parla;False;good;False;1;Pintores-Ferial;Unknown;False;Unknown;flat;Unknown;11.0
+86;750.0;flat;rent;51.0;True;1;1;Madrid;False;good;False;1;Carabanchel;Opañel;True;Unknown;flat;Unknown;15.0
+87;750.0;flat;rent;48.0;False;1;1;Tres Cantos;False;good;False;4;Zona Estación- Centro;Unknown;True;Unknown;flat;Unknown;16.0
+88;690.0;flat;rent;35.0;True;1;1;Madrid;False;good;False;Unknown;Tetuán;Berruguete;False;Unknown;flat;Unknown;20.0
+89;750.0;flat;rent;74.0;True;3;1;Alcorcón;False;good;False;4;Centro;Casco Antiguo;True;True;flat;Unknown;10.0
+90;700.0;duplex;rent;35.0;True;1;1;Madrid;False;good;False;bj;Centro;Palacio;False;Unknown;flat;duplex;20.0
+91;720.0;flat;rent;42.0;True;1;1;Madrid;False;good;False;4;Hortaleza;Pinar del Rey;True;Unknown;flat;Unknown;17.0
+92;595.0;flat;rent;55.0;True;1;1;Quijorna;False;good;False;1;Unknown;Unknown;False;True;flat;Unknown;11.0
+93;700.0;flat;rent;45.0;False;1;1;Madrid;False;good;False;1;Centro;Palacio;False;Unknown;flat;Unknown;16.0
+94;500.0;flat;rent;45.0;True;1;1;Valdemorillo;False;good;False;Unknown;Valdemorillo pueblo;Unknown;False;Unknown;flat;Unknown;11.0
+95;700.0;flat;rent;75.0;True;2;1;Aranjuez;True;good;False;1;Nuevo Aranjuez-Ciudad de las Artes;Unknown;False;Unknown;flat;Unknown;9.0
+96;675.0;duplex;rent;87.0;True;2;2;Miraflores de la Sierra;False;good;False;2;Unknown;Unknown;False;Unknown;flat;duplex;8.0
+97;650.0;flat;rent;45.0;True;1;1;Pedrezuela;False;good;False;bj;Unknown;Unknown;False;True;flat;Unknown;14.0
+98;750.0;studio;rent;55.0;True;0;1;Madrid;True;good;False;2;Centro;Lavapiés-Embajadores;True;Unknown;flat;studio;14.0
+99;720.0;studio;rent;45.0;True;0;1;San Sebastián de los Reyes;True;good;False;5;Vega de la Moraleja;Unknown;True;Unknown;flat;studio;16.0
+100;624.0;flat;rent;45.0;True;1;1;Valdemoro;True;newdevelopment;True;Unknown;Hospital;Unknown;True;True;flat;Unknown;14.0
+101;633.0;flat;rent;45.0;True;1;1;Valdemoro;True;newdevelopment;True;Unknown;Hospital;Unknown;True;True;flat;Unknown;14.0
+102;640.0;studio;rent;33.0;True;0;1;Madrid;True;good;False;2;Villa de Vallecas;Ensanche de Vallecas - La Gavia;True;True;flat;studio;19.0
+103;645.0;flat;rent;84.0;True;2;2;Aranjuez;True;good;False;2;Nuevo Aranjuez-Ciudad de las Artes;Unknown;True;Unknown;flat;Unknown;8.0
+104;750.0;flat;rent;46.0;False;1;1;Madrid;True;good;False;3;Centro;Palacio;False;Unknown;flat;Unknown;16.0
+105;735.0;studio;rent;35.0;True;0;1;Madrid;True;good;False;1;Fuencarral;Las Tablas;True;True;flat;studio;21.0
+106;600.0;flat;rent;55.0;True;1;1;Daganzo de Arriba;False;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;13.294985250737463
+107;750.0;flat;rent;75.0;True;3;1;Madrid;False;good;False;Unknown;Villaverde;Villaverde Alto;False;Unknown;flat;Unknown;10.0
+108;600.0;penthouse;rent;25.0;True;1;1;Madrid;True;good;False;5;Centro;Sol;True;Unknown;flat;penthouse;24.0
+109;705.0;flat;rent;48.0;True;1;1;Madrid;True;good;False;4;Villa de Vallecas;Ensanche de Vallecas - La Gavia;True;True;flat;Unknown;15.0
+110;650.0;flat;rent;62.0;True;2;1;Guadarrama;False;good;False;3;Unknown;Unknown;False;Unknown;flat;Unknown;10.0
+111;700.0;duplex;rent;61.0;True;2;1;Cobeña;False;good;False;1;Unknown;Unknown;False;Unknown;flat;duplex;11.0
+112;650.0;studio;rent;40.0;False;0;1;Madrid;False;good;False;en;Tetuán;Berruguete;True;Unknown;flat;studio;16.0
+113;700.0;flat;rent;40.0;True;1;1;Madrid;False;good;False;bj;Latina;Puerta del Ángel;False;True;flat;Unknown;18.0
+114;730.0;flat;rent;51.0;True;2;1;Madrid;False;good;False;4;Villaverde;Los Rosales;False;Unknown;flat;Unknown;14.0
+115;750.0;flat;rent;50.0;True;2;1;Madrid;False;good;False;3;Villa de Vallecas;Casco Histórico de Vallecas;False;Unknown;flat;Unknown;15.0
+116;680.0;flat;rent;56.0;True;2;1;Torrejón de Ardoz;False;good;False;3;Noroeste;Unknown;False;Unknown;flat;Unknown;12.0
+117;710.0;flat;rent;78.0;True;3;1;Parla;False;good;False;4;Fuentebella-San Felix-El Leguario;Unknown;False;Unknown;flat;Unknown;9.0
+118;720.0;flat;rent;47.0;True;2;1;Madrid;False;good;False;1;San Blas;Amposta;False;Unknown;flat;Unknown;15.0
+119;750.0;studio;rent;43.0;True;0;1;Madrid;False;good;False;Unknown;Tetuán;Valdeacederas;True;Unknown;flat;studio;17.0
+120;695.0;studio;rent;40.0;True;0;1;Madrid;False;good;False;Unknown;Barajas;Casco Histórico de Barajas;True;True;flat;studio;17.0
+121;630.0;flat;rent;54.0;True;1;2;El Álamo;False;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;13.294985250737463
+122;750.0;flat;rent;90.0;True;3;1;Algete;False;good;False;Unknown;Unknown;Unknown;True;Unknown;flat;Unknown;8.0
+123;730.0;flat;rent;50.0;True;1;1;Madrid;False;good;False;2;Villa de Vallecas;Casco Histórico de Vallecas;True;True;flat;Unknown;15.0
+124;600.0;flat;rent;90.0;True;3;1;Valdemoro;False;good;False;Unknown;Centro;Unknown;True;Unknown;flat;Unknown;7.0
+125;650.0;studio;rent;45.0;True;0;1;Madrid;True;good;False;bj;Ciudad Lineal;Pueblo Nuevo;True;Unknown;flat;studio;14.0
+126;750.0;flat;rent;38.0;False;1;1;Madrid;True;good;False;bj;Centro;Huertas-Cortes;True;Unknown;flat;Unknown;20.0
+127;730.0;flat;rent;50.0;True;1;1;Rivas-Vaciamadrid;False;good;False;Unknown;Rivas Futura;Unknown;True;True;flat;Unknown;15.0
+128;735.0;studio;rent;30.0;True;0;1;Madrid;True;good;False;2;Fuencarral;Las Tablas;True;True;flat;studio;25.0
+129;610.0;flat;rent;72.0;False;1;1;Pinto;False;good;False;bj;San José - Buenos Aires;Unknown;True;True;flat;Unknown;8.0
+130;580.0;chalet;rent;54.0;False;3;2;Los Santos de la Humosa;False;good;False;Unknown;Unknown;Unknown;Unknown;Unknown;chalet;Unknown;11.0
+131;725.0;flat;rent;50.0;True;1;1;Villanueva del Pardillo;True;good;False;en;Centro;Unknown;False;Unknown;flat;Unknown;15.0
+132;750.0;flat;rent;48.0;True;1;1;Madrid;False;good;False;1;Carabanchel;Vista Alegre;False;Unknown;flat;Unknown;16.0
+133;750.0;flat;rent;70.0;True;3;1;Alcalá de Henares;False;good;False;2;San Isidro - Los Almendros;Unknown;False;Unknown;flat;Unknown;11.0
+134;750.0;flat;rent;49.0;True;1;1;Madrid;True;good;False;7;Hortaleza;Pinar del Rey;True;Unknown;flat;Unknown;15.0
+135;730.0;flat;rent;60.0;True;3;1;Parla;False;good;False;3;Reyes;Unknown;False;Unknown;flat;Unknown;12.0
+136;560.0;flat;rent;26.0;False;1;1;Madrid;False;good;False;bj;Centro;Lavapiés-Embajadores;False;Unknown;flat;Unknown;22.0
+137;700.0;studio;rent;23.0;True;0;1;Madrid;True;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;13.294985250737463
+138;750.0;flat;rent;80.0;True;3;1;San Fernando de Henares;True;good;False;2;Parque Roma - Coronas;Unknown;True;True;flat;Unknown;9.0
+139;730.0;flat;rent;70.0;True;3;1;Pinto;False;good;False;3;Parque Europa - Los Pitufos;Unknown;False;Unknown;flat;Unknown;10.0
+140;730.0;flat;rent;52.0;True;2;1;Madrid;False;good;False;4;Vicálvaro;Ambroz;False;Unknown;flat;Unknown;14.0
+141;740.0;flat;rent;64.0;True;2;1;Madrid;False;good;False;3;Villaverde;Villaverde Alto;False;Unknown;flat;Unknown;12.0
+142;720.0;flat;rent;65.0;True;2;1;Madrid;False;good;False;2;Villaverde;Los Rosales;False;Unknown;flat;Unknown;11.0
+143;720.0;flat;rent;63.0;True;2;1;Torrejón de Ardoz;False;good;False;2;Noroeste;Unknown;False;Unknown;flat;Unknown;11.0
+144;740.0;flat;rent;54.0;True;2;1;Madrid;False;good;False;1;Villaverde;Los Rosales;True;Unknown;flat;Unknown;14.0
+145;720.0;flat;rent;52.0;True;2;1;Getafe;False;good;False;3;La Alhóndiga;Unknown;False;Unknown;flat;Unknown;14.0
+146;730.0;flat;rent;45.0;True;2;1;Madrid;False;good;False;3;Puente de Vallecas;San Diego;False;Unknown;flat;Unknown;16.0
+147;600.0;duplex;rent;80.0;False;1;1;Madrid;False;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;13.294985250737463
+148;600.0;duplex;rent;80.0;False;1;1;Madrid;False;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;13.294985250737463
+149;725.0;duplex;rent;71.0;True;2;1;Cobeña;False;good;False;1;Unknown;Unknown;False;True;flat;duplex;10.0
+150;675.0;flat;rent;76.0;True;3;1;Aldea del Fresno;False;good;False;2;Unknown;Unknown;False;True;flat;Unknown;9.0
+151;750.0;flat;rent;54.0;True;1;1;San Sebastián de los Reyes;True;good;False;3;Centro Urbano;Unknown;True;True;flat;Unknown;14.0
+152;750.0;duplex;rent;79.0;True;2;2;Collado Villalba;False;good;False;1;Villalba Estación;Unknown;False;Unknown;flat;duplex;9.0
+153;700.0;flat;rent;54.0;True;1;1;Madrid;False;good;False;2;Usera;Almendrales;True;Unknown;flat;Unknown;13.0
+154;750.0;flat;rent;54.0;True;2;1;Madrid;False;good;False;3;Villaverde;Villaverde Alto;False;Unknown;flat;Unknown;14.0
+155;730.0;flat;rent;48.0;True;2;1;Madrid;False;good;False;3;San Blas;Amposta;False;Unknown;flat;Unknown;15.0
+156;650.0;flat;rent;61.0;True;2;1;Alcalá de Henares;False;good;False;4;Reyes Católicos;Unknown;False;Unknown;flat;Unknown;11.0
+157;730.0;flat;rent;63.0;True;2;1;Madrid;False;good;False;1;Villaverde;Villaverde Alto;False;Unknown;flat;Unknown;12.0
+158;720.0;flat;rent;50.0;True;2;1;Madrid;False;good;False;2;San Blas;Amposta;False;Unknown;flat;Unknown;14.0
+159;720.0;flat;rent;51.0;True;2;1;Madrid;False;good;False;1;San Blas;Amposta;False;Unknown;flat;Unknown;14.0
+160;750.0;flat;rent;47.0;True;2;1;Madrid;False;good;False;1;Puente de Vallecas;San Diego;False;Unknown;flat;Unknown;16.0
+161;730.0;flat;rent;50.0;True;2;1;Madrid;False;good;False;3;Villaverde;Butarque;False;Unknown;flat;Unknown;15.0
+162;730.0;flat;rent;40.0;True;2;1;Madrid;False;good;False;2;Puente de Vallecas;San Diego;False;Unknown;flat;Unknown;18.0
+163;670.0;flat;rent;67.0;True;2;1;Valdemoro;False;good;False;1;Zona Estación;Unknown;True;Unknown;flat;Unknown;10.0
+164;740.0;flat;rent;52.0;True;2;1;Madrid;False;good;False;3;Puente de Vallecas;San Diego;False;Unknown;flat;Unknown;14.0
+165;720.0;flat;rent;69.0;True;2;1;Alcalá de Henares;False;good;False;1;Chorrillo;Unknown;True;Unknown;flat;Unknown;10.0
+166;750.0;flat;rent;59.0;True;2;1;Madrid;False;good;False;4;Villaverde;Villaverde Alto;False;Unknown;flat;Unknown;13.0
+167;740.0;flat;rent;45.0;True;2;1;Madrid;False;good;False;3;Villaverde;Los Rosales;False;Unknown;flat;Unknown;16.0
+168;740.0;flat;rent;60.0;True;2;1;Madrid;False;good;False;1;Villaverde;Los Rosales;True;Unknown;flat;Unknown;12.0
+169;730.0;studio;rent;45.0;False;0;1;Madrid;False;good;False;Unknown;Centro;Huertas-Cortes;True;Unknown;flat;studio;16.0
+170;620.0;flat;rent;75.0;True;3;1;Parla;False;good;False;Unknown;Reyes;Unknown;True;Unknown;flat;Unknown;8.0
+171;695.0;flat;rent;67.0;True;2;1;Fuenlabrada;False;good;False;Unknown;Sudeste Industrial;Unknown;False;Unknown;flat;Unknown;10.0
+172;650.0;flat;rent;95.0;True;3;1;Navalcarnero;False;good;False;Unknown;Centro;Unknown;True;Unknown;flat;Unknown;7.0
+173;675.0;flat;rent;68.0;True;2;1;Alcalá de Henares;False;good;False;Unknown;Juan de Austria;Unknown;True;Unknown;flat;Unknown;10.0
+174;695.0;flat;rent;65.0;True;2;1;Madrid;False;good;False;Unknown;Vicálvaro;Casco Histórico de Vicálvaro;False;Unknown;flat;Unknown;11.0
+175;750.0;flat;rent;111.0;True;2;2;Parla;False;good;False;6;Centro;Unknown;True;Unknown;flat;Unknown;7.0
+176;675.0;flat;rent;35.0;False;1;1;Madrid;True;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;13.294985250737463
+177;730.0;flat;rent;60.0;False;3;1;Parla;False;good;False;3;Reyes;Unknown;False;Unknown;flat;Unknown;12.0
+178;690.0;flat;rent;85.0;True;2;1;Parla;False;good;False;Unknown;Reyes;Unknown;True;Unknown;flat;Unknown;8.0
+179;750.0;flat;rent;45.0;False;1;1;Madrid;True;good;False;bj;Tetuán;Valdeacederas;False;Unknown;flat;Unknown;17.0
+180;600.0;studio;rent;32.0;True;0;1;Madrid;True;good;False;1;San Blas;Salvador;True;Unknown;flat;studio;19.0
+181;723.0;studio;rent;25.0;True;0;1;Rivas-Vaciamadrid;True;newdevelopment;True;Unknown;Rivas Futura;Unknown;True;True;flat;studio;29.0
+182;725.0;flat;rent;50.0;True;1;1;Madrid;True;good;False;1;San Blas;Rejas;True;True;flat;Unknown;15.0
+183;750.0;flat;rent;67.0;True;3;1;Getafe;False;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;13.294985250737463
+184;600.0;flat;rent;45.0;True;2;1;Mataelpino;False;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;13.294985250737463
+185;750.0;flat;rent;70.0;True;3;1;San Fernando de Henares;False;good;False;2;Montserrat - Parque Empresarial;Unknown;False;Unknown;flat;Unknown;11.0
+186;450.0;penthouse;rent;60.0;True;1;1;Villa del Prado;False;good;False;Unknown;Unknown;Unknown;False;Unknown;flat;penthouse;8.0
+187;720.0;flat;rent;54.0;True;1;1;Madrid;False;good;False;bj;Carabanchel;San Isidro;False;Unknown;flat;Unknown;13.0
+188;550.0;penthouse;rent;75.0;True;2;2;Villa del Prado;False;good;False;Unknown;Unknown;Unknown;False;Unknown;flat;penthouse;7.0
+189;720.0;flat;rent;49.0;False;3;1;Madrid;False;good;False;3;Villaverde;San Cristóbal;False;Unknown;flat;Unknown;15.0
+190;740.0;flat;rent;65.0;True;3;1;Madrid;False;good;False;1;Vicálvaro;Ambroz;True;Unknown;flat;Unknown;11.0
+191;660.0;flat;rent;155.0;False;3;2;Aranjuez;False;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;13.294985250737463
+192;720.0;flat;rent;56.0;False;2;1;Madrid;False;good;False;4;Villaverde;Los Rosales;False;Unknown;flat;Unknown;13.0
+193;650.0;flat;rent;31.0;False;1;1;Madrid;False;good;False;3;Centro;Lavapiés-Embajadores;False;Unknown;flat;Unknown;21.0
+194;650.0;flat;rent;96.0;True;2;1;Aranjuez;False;good;False;3;Nuevo Aranjuez-Ciudad de las Artes;Unknown;False;Unknown;flat;Unknown;7.0
+195;660.0;flat;rent;168.0;False;4;2;Aranjuez;False;good;False;3;La Montaña-El Cortijo;Unknown;True;True;flat;Unknown;4.0
+196;690.0;flat;rent;64.0;True;2;1;Alcalá de Henares;False;good;False;bj;Val;Unknown;False;Unknown;flat;Unknown;11.0
+197;750.0;studio;rent;25.0;True;0;1;Madrid;False;good;False;5;Barrio de Salamanca;Lista;True;Unknown;flat;studio;30.0
+198;725.0;flat;rent;45.0;True;1;1;Madrid;True;good;False;2;San Blas;Rejas;True;True;flat;Unknown;16.0
+199;620.0;flat;rent;85.0;False;1;1;Pinto;False;good;False;bj;San José - Buenos Aires;Unknown;True;True;flat;Unknown;7.0
+200;590.0;flat;rent;52.0;True;1;1;Los Molinos;False;good;False;bj;Unknown;Unknown;False;Unknown;flat;Unknown;11.0
+201;750.0;penthouse;rent;80.0;True;0;1;Tres Cantos;False;good;False;1;Zona Industrial;Unknown;True;True;flat;penthouse;9.0
+202;720.0;studio;rent;36.0;True;0;1;Madrid;False;good;False;2;Ciudad Lineal;San Juan Bautista;True;True;flat;studio;20.0
+203;700.0;flat;rent;82.0;True;2;1;San Lorenzo de el Escorial;False;good;False;3;Centro - Casco Histórico;Unknown;False;Unknown;flat;Unknown;9.0
+204;692.0;flat;rent;83.0;True;2;2;Torrejón de Ardoz;True;newdevelopment;True;Unknown;Suroeste;Unknown;True;True;flat;Unknown;8.0
+205;670.0;flat;rent;79.0;True;2;2;Torrejón de Ardoz;True;newdevelopment;True;Unknown;Suroeste;Unknown;True;True;flat;Unknown;8.0
+206;609.0;flat;rent;56.0;True;1;1;Alcalá de Henares;True;newdevelopment;True;bj;Espartales;Unknown;True;Unknown;flat;Unknown;11.0
+207;718.0;flat;rent;86.0;True;2;2;Torrejón de Ardoz;True;newdevelopment;True;Unknown;Suroeste;Unknown;True;True;flat;Unknown;8.0
+208;694.0;flat;rent;81.0;True;2;2;Torrejón de Ardoz;True;newdevelopment;True;Unknown;Suroeste;Unknown;True;True;flat;Unknown;9.0
+209;658.0;flat;rent;78.0;True;2;2;Torrejón de Ardoz;True;newdevelopment;True;Unknown;Suroeste;Unknown;True;True;flat;Unknown;8.0
+210;750.0;flat;rent;36.0;False;2;1;Madrid;True;good;False;2;Tetuán;Bellas Vistas;True;Unknown;flat;Unknown;21.0
+211;723.0;flat;rent;88.0;True;2;2;Torrejón de Ardoz;True;newdevelopment;True;Unknown;Suroeste;Unknown;True;True;flat;Unknown;8.0
+212;728.0;flat;rent;91.0;True;2;2;Torrejón de Ardoz;True;newdevelopment;True;Unknown;Suroeste;Unknown;True;True;flat;Unknown;8.0
+213;650.0;studio;rent;28.0;True;0;1;Madrid;False;good;False;bj;Tetuán;Valdeacederas;False;Unknown;flat;studio;23.0
+214;750.0;flat;rent;60.0;False;2;1;Alcalá de Henares;False;good;False;1;Casco Histórico;Unknown;False;Unknown;flat;Unknown;13.0
+215;735.0;flat;rent;60.0;True;3;1;Parla;False;good;False;4;Parque Inlasa;Unknown;False;Unknown;flat;Unknown;12.0
+216;699.0;penthouse;rent;78.0;True;2;1;Colmenar Viejo;True;good;False;2;Centro;Unknown;False;Unknown;flat;penthouse;9.0
+217;725.0;flat;rent;67.0;True;3;1;Móstoles;False;good;False;4;Centro;Unknown;False;Unknown;flat;Unknown;11.0
+218;740.0;flat;rent;77.0;True;3;2;Alcalá de Henares;False;good;False;bj;Reyes Católicos;Unknown;True;Unknown;flat;Unknown;10.0
+219;720.0;flat;rent;73.0;True;1;1;Collado Villalba;True;good;False;2;Villalba Estación;Unknown;True;Unknown;flat;Unknown;10.0
+220;750.0;flat;rent;79.0;True;3;1;Getafe;True;good;False;en;Universidad;Unknown;True;Unknown;flat;Unknown;9.0
+221;710.0;flat;rent;66.0;True;3;1;Parla;False;good;False;4;Parque Inlasa;Unknown;False;Unknown;flat;Unknown;11.0
+222;725.0;flat;rent;62.0;True;2;1;Madrid;False;good;False;3;Latina;Águilas;False;Unknown;flat;Unknown;12.0
+223;750.0;flat;rent;46.0;False;1;1;Madrid;True;good;False;bj;Carabanchel;Puerta Bonita;False;Unknown;flat;Unknown;16.0
+224;750.0;flat;rent;61.0;True;2;1;Madrid;True;good;False;1;Carabanchel;Opañel;True;Unknown;flat;Unknown;12.0
+225;730.0;flat;rent;161.0;True;4;1;Aranjuez;False;good;False;3;Nuevo Aranjuez-Ciudad de las Artes;Unknown;False;Unknown;flat;Unknown;5.0
+226;720.0;flat;rent;110.0;False;2;1;Parla;False;good;False;Unknown;Las Américas;Unknown;True;True;flat;Unknown;7.0
+227;720.0;flat;rent;48.0;False;2;1;Madrid;False;good;False;bj;Puente de Vallecas;Numancia;False;Unknown;flat;Unknown;15.0
+228;700.0;flat;rent;57.0;False;2;1;Madrid;False;good;False;4;Villaverde;San Cristóbal;False;Unknown;flat;Unknown;12.0
+229;750.0;duplex;rent;75.0;True;2;2;Cobeña;False;good;False;1;Unknown;Unknown;False;Unknown;flat;duplex;10.0
+230;610.0;studio;rent;26.0;False;0;1;Madrid;False;good;False;3;Tetuán;Valdeacederas;True;Unknown;flat;studio;23.0
+231;740.0;flat;rent;52.0;False;2;1;Móstoles;False;good;False;4;Centro;Unknown;False;Unknown;flat;Unknown;14.0
+232;715.0;flat;rent;62.0;True;2;1;Colmenar Viejo;False;good;False;bj;San Crispín - La Estación Consorcio;Unknown;True;True;flat;Unknown;12.0
+233;550.0;flat;rent;57.0;False;2;1;Aranjuez;False;good;False;bj;Foso-Moreras;Unknown;False;Unknown;flat;Unknown;10.0
+234;710.0;flat;rent;36.0;True;1;1;Madrid;False;good;False;bj;Arganzuela;Palos de Moguer;False;Unknown;flat;Unknown;20.0
+235;730.0;flat;rent;51.0;True;2;1;Madrid;False;good;False;2;Villaverde;Villaverde Alto;False;Unknown;flat;Unknown;14.0
+236;750.0;studio;rent;23.0;True;0;1;Madrid;False;good;False;8;Centro;Malasaña-Universidad;True;Unknown;flat;studio;33.0
+237;690.0;flat;rent;33.0;False;1;1;Madrid;False;good;False;3;Tetuán;Valdeacederas;True;Unknown;flat;Unknown;21.0
+238;740.0;flat;rent;73.0;True;3;1;Parla;False;good;False;4;Fuentebella-San Felix-El Leguario;Unknown;True;Unknown;flat;Unknown;10.0
+239;750.0;duplex;rent;66.0;True;1;1;Madrid;False;good;False;bj;Tetuán;Valdeacederas;True;Unknown;flat;duplex;11.0
+240;720.0;flat;rent;44.0;False;3;1;Madrid;False;good;False;2;Villaverde;Villaverde Alto;False;Unknown;flat;Unknown;16.0
+241;475.0;flat;rent;79.0;True;2;2;Navalafuente;False;good;False;2;Unknown;Unknown;True;Unknown;flat;Unknown;6.0
+242;740.0;flat;rent;41.0;True;2;1;Madrid;False;good;False;2;Puente de Vallecas;San Diego;False;Unknown;flat;Unknown;18.0
+243;740.0;flat;rent;57.0;True;1;1;Madrid;False;good;False;1;Latina;Los Cármenes;True;Unknown;flat;Unknown;13.0
+244;740.0;flat;rent;62.0;True;2;1;Colmenar Viejo;False;good;False;1;San Crispín - La Estación Consorcio;Unknown;True;True;flat;Unknown;12.0
+245;700.0;flat;rent;74.0;False;2;1;Getafe;False;good;False;4;Getafe norte;Unknown;False;Unknown;flat;Unknown;9.0
+246;730.0;flat;rent;35.0;False;1;1;Madrid;False;good;False;2;Centro;Chueca-Justicia;True;Unknown;flat;Unknown;21.0
+247;700.0;studio;rent;28.0;True;0;1;Madrid;False;good;False;3;Fuencarral;Montecarmelo;True;True;flat;studio;25.0
+248;600.0;chalet;rent;180.0;False;3;2;Meco;False;good;False;Unknown;Unknown;Unknown;Unknown;True;chalet;terracedHouse;3.0
+249;750.0;flat;rent;109.0;True;2;2;Valdemoro;False;good;False;3;Hospital;Unknown;True;True;flat;Unknown;7.0
+250;749.0;flat;rent;38.0;True;1;1;Madrid;True;good;False;2;Carabanchel;Pau de Carabanchel;True;True;flat;Unknown;20.0
+251;700.0;studio;rent;30.0;False;0;1;Madrid;False;good;False;bj;Retiro;Pacífico;True;Unknown;flat;studio;23.0
+252;667.0;flat;rent;70.0;True;1;1;Parla;True;good;False;8;Parla Este;Unknown;True;True;flat;Unknown;10.0
+253;725.0;flat;rent;45.0;False;1;1;Madrid;False;good;False;1;San Blas;Rejas;True;True;flat;Unknown;16.0
+254;550.0;penthouse;rent;70.0;True;3;1;Robledo de Chavela;False;good;False;3;Unknown;Unknown;False;True;flat;penthouse;8.0
+255;695.0;flat;rent;55.0;True;3;1;Parla;False;good;False;4;Villayuventus-Renfe;Unknown;False;Unknown;flat;Unknown;13.0
+256;750.0;flat;rent;105.0;True;3;1;Campo Real;False;good;False;1;Unknown;Unknown;False;Unknown;flat;Unknown;7.0
+257;699.0;flat;rent;52.0;True;1;1;Madrid;True;good;False;3;Puente de Vallecas;Palomeras sureste;True;True;flat;Unknown;13.0
+258;750.0;studio;rent;32.0;True;0;1;Madrid;False;good;False;14;Ciudad Lineal;San Pascual;True;Unknown;flat;studio;23.0
+259;730.0;flat;rent;80.0;True;3;1;Collado Villalba;False;good;False;4;Carlos Ruiz;Unknown;False;Unknown;flat;Unknown;9.0
+260;710.0;flat;rent;30.0;True;1;1;Madrid;False;good;False;bj;Centro;Lavapiés-Embajadores;False;Unknown;flat;Unknown;24.0
+261;650.0;flat;rent;58.0;True;1;1;Madrid;True;good;False;4;Puente de Vallecas;Palomeras sureste;True;Unknown;flat;Unknown;11.0
+262;600.0;countryHouse;rent;60.0;False;2;2;Villaviciosa de Odón;True;renew;False;Unknown;Centro;Unknown;Unknown;Unknown;countryHouse;countryHouse;10.0
+263;740.0;flat;rent;41.0;True;2;1;Madrid;False;good;False;3;Villa de Vallecas;Casco Histórico de Vallecas;False;Unknown;flat;Unknown;18.0
+264;525.0;flat;rent;40.0;True;1;1;Aranjuez;False;good;False;3;Foso-Moreras;Unknown;True;Unknown;flat;Unknown;13.0
+265;750.0;studio;rent;35.0;True;0;1;Madrid;False;good;False;4;Moncloa;Argüelles;False;Unknown;flat;studio;21.0
+266;750.0;flat;rent;74.0;True;3;1;Alcalá de Henares;False;good;False;2;Chorrillo;Unknown;True;Unknown;flat;Unknown;10.0
+267;710.0;flat;rent;69.0;True;3;1;Alcalá de Henares;False;good;False;5;Reyes Católicos;Unknown;True;Unknown;flat;Unknown;10.0
+268;560.0;studio;rent;46.0;True;0;1;Madrid;False;good;False;bj;Puente de Vallecas;Numancia;False;Unknown;flat;studio;12.0
+269;600.0;flat;rent;42.0;True;1;1;Torrejón de Ardoz;False;good;False;bj;Noroeste;Unknown;False;Unknown;flat;Unknown;14.0
+270;720.0;flat;rent;44.0;True;1;1;Madrid;False;good;False;ss;Carabanchel;San Isidro;False;Unknown;flat;Unknown;16.0
+271;750.0;flat;rent;60.0;True;2;1;Madrid;False;good;False;Unknown;Latina;Puerta del Ángel;False;Unknown;flat;Unknown;13.0
+272;750.0;flat;rent;42.0;False;1;1;Madrid;True;good;False;4;Arganzuela;Delicias;True;Unknown;flat;Unknown;18.0
+273;750.0;studio;rent;90.0;True;0;1;Madrid;False;good;False;4;San Blas;Simancas;True;Unknown;flat;studio;8.0
+274;650.0;studio;rent;45.0;False;0;1;Madrid;True;good;False;bj;Chamartín;Prosperidad;True;Unknown;flat;studio;14.0
+275;650.0;flat;rent;59.0;True;1;1;Parla;False;good;False;2;El Nido-Las Fuentes;Unknown;True;Unknown;flat;Unknown;11.0
+276;670.0;flat;rent;75.0;True;2;1;Arganda;False;good;False;3;El Mirador - Grillero;Unknown;True;True;flat;Unknown;9.0
+277;650.0;flat;rent;45.0;True;1;1;Getafe;True;newdevelopment;True;2;La Alhóndiga;Unknown;True;Unknown;flat;Unknown;14.0
+278;750.0;flat;rent;32.0;True;1;1;Madrid;False;good;False;2;Puente de Vallecas;Palomeras Bajas;True;Unknown;flat;Unknown;23.0
+279;725.0;flat;rent;50.0;True;1;1;Madrid;False;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;13.294985250737463
+280;620.0;studio;rent;20.0;False;0;1;Madrid;True;good;False;1;Arganzuela;Palos de Moguer;True;Unknown;flat;studio;31.0
+281;680.0;flat;rent;35.0;True;1;1;Madrid;True;good;False;bj;Carabanchel;San Isidro;False;Unknown;flat;Unknown;19.0
+282;750.0;flat;rent;87.0;True;3;1;Coslada;False;good;False;bj;La Espinilla - Parque Blanco;Unknown;True;Unknown;flat;Unknown;9.0
+283;670.0;flat;rent;53.0;True;1;1;Getafe;True;newdevelopment;True;1;La Alhóndiga;Unknown;True;Unknown;flat;Unknown;13.0
+284;600.0;flat;rent;75.0;True;3;1;Alcalá de Henares;False;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;13.294985250737463
+285;750.0;flat;rent;70.0;True;2;1;Alcorcón;False;good;False;4;Centro;Zona Centro Joven;False;True;flat;Unknown;11.0
+286;700.0;flat;rent;36.0;True;2;1;Pozuelo de Alarcón;False;good;False;3;Zona Pueblo;Zona Pueblo;False;Unknown;flat;Unknown;19.0
+287;695.0;flat;rent;58.0;False;1;1;Madrid;False;good;False;1;Carabanchel;Puerta Bonita;True;Unknown;flat;Unknown;12.0
+288;710.0;flat;rent;66.0;True;1;1;Arganda;False;good;False;2;Centro;Unknown;True;True;flat;Unknown;11.0
+289;620.0;flat;rent;80.0;True;2;1;Bustarviejo;False;good;False;2;Unknown;Unknown;False;True;flat;Unknown;8.0
+290;700.0;flat;rent;80.0;True;3;1;Collado Mediano;True;good;False;1;Unknown;Unknown;False;True;flat;Unknown;9.0
+291;715.0;flat;rent;89.0;True;3;1;Chinchón;False;good;False;bj;Unknown;Unknown;False;Unknown;flat;Unknown;8.0
+292;750.0;flat;rent;50.0;True;1;1;Madrid;True;good;False;1;Villa de Vallecas;Ensanche de Vallecas - La Gavia;True;True;flat;Unknown;15.0
+293;750.0;flat;rent;45.0;True;1;1;Madrid;False;good;False;2;Hortaleza;Pinar del Rey;True;True;flat;Unknown;17.0
+294;550.0;studio;rent;25.0;False;0;1;Madrid;False;good;False;bj;Tetuán;Berruguete;False;Unknown;flat;studio;22.0
+295;730.0;flat;rent;60.0;True;1;1;Colmenar Viejo;False;good;False;Unknown;Centro;Unknown;False;Unknown;flat;Unknown;12.0
+296;750.0;penthouse;rent;46.0;True;2;1;Madrid;False;good;False;4;Puente de Vallecas;Numancia;True;Unknown;flat;penthouse;16.0
+297;700.0;flat;rent;45.0;True;1;1;Coslada;False;good;False;bj;Ciudad 70;Unknown;False;Unknown;flat;Unknown;16.0
+298;680.0;flat;rent;85.0;True;2;1;Coslada;False;renew;False;bj;Valleaguado - La Cañada;Unknown;True;Unknown;flat;Unknown;8.0
+299;600.0;flat;rent;28.0;False;1;1;Madrid;True;good;False;4;Tetuán;Bellas Vistas;False;Unknown;flat;Unknown;21.0
+300;750.0;flat;rent;80.0;True;2;1;Colmenarejo;False;good;False;1;Unknown;Unknown;False;True;flat;Unknown;9.0
+301;700.0;flat;rent;62.0;True;1;1;Alcorcón;False;good;False;2;Centro;Casco Antiguo;True;Unknown;flat;Unknown;11.0
+302;690.0;flat;rent;77.0;True;2;1;Madrid;True;good;False;bj;Carabanchel;Buena Vista;True;True;flat;Unknown;9.0
+303;700.0;flat;rent;50.0;True;1;1;Madrid;False;good;False;bj;Fuencarral;Tres Olivos - Valverde;False;Unknown;flat;Unknown;14.0
+304;750.0;flat;rent;87.0;True;2;1;Coslada;True;good;False;5;Ciudad 70;Unknown;True;Unknown;flat;Unknown;9.0
+305;735.0;flat;rent;51.0;True;1;1;Getafe;False;good;False;4;Buenavista;Unknown;True;True;flat;Unknown;14.0
+306;700.0;flat;rent;80.0;True;3;1;Móstoles;True;good;False;5;Suroeste;Unknown;True;Unknown;flat;Unknown;9.0
+307;725.0;flat;rent;75.0;True;3;1;Fuenlabrada;False;good;False;Unknown;Centro;Unknown;False;Unknown;flat;Unknown;10.0
+308;733.0;flat;rent;68.4;True;2;1;Alcalá de Henares;False;good;False;2;Las Sedas - El Olivar;Unknown;True;True;flat;Unknown;11.0
+309;750.0;flat;rent;36.0;True;1;1;Madrid;False;good;False;bj;Ciudad Lineal;Ventas;True;Unknown;flat;Unknown;21.0
+310;675.0;flat;rent;69.0;True;2;1;Madrid;True;good;False;bj;Latina;Aluche;False;Unknown;flat;Unknown;10.0
+311;650.0;flat;rent;85.0;True;2;1;Guadarrama;True;good;False;2;Unknown;Unknown;False;Unknown;flat;Unknown;8.0
+312;730.0;flat;rent;52.0;True;1;1;Madrid;False;good;False;bj;Tetuán;Valdeacederas;True;Unknown;flat;Unknown;14.0
+313;700.0;flat;rent;97.0;True;1;1;Loeches;True;good;False;bj;Unknown;Unknown;True;Unknown;flat;Unknown;7.0
+314;690.0;studio;rent;38.0;False;0;1;Madrid;False;good;False;2;Tetuán;Valdeacederas;True;True;flat;studio;18.0
+315;700.0;flat;rent;70.0;True;2;1;Guadarrama;True;good;False;1;Unknown;Unknown;False;Unknown;flat;Unknown;10.0
+316;600.0;duplex;rent;89.0;True;2;2;Miraflores de la Sierra;False;good;False;2;Unknown;Unknown;False;Unknown;flat;duplex;7.0
+317;700.0;studio;rent;25.0;False;0;1;Madrid;False;good;False;bj;Centro;Lavapiés-Embajadores;False;Unknown;flat;studio;28.0
+318;690.0;flat;rent;60.0;True;2;1;Sevilla la Nueva;False;good;False;bj;Unknown;Unknown;False;Unknown;flat;Unknown;12.0
+319;750.0;duplex;rent;114.0;True;3;3;Serranillos del Valle;True;good;False;1;Unknown;Unknown;False;Unknown;flat;duplex;7.0
+320;700.0;studio;rent;51.0;True;0;1;Madrid;False;good;False;bj;Hortaleza;Pinar del Rey;False;Unknown;flat;studio;14.0
+321;670.0;flat;rent;61.0;True;1;1;Collado Villalba;False;good;False;bj;Parque de la Coruña - Las Suertes;Unknown;True;True;flat;Unknown;11.0
+322;750.0;flat;rent;80.0;True;2;1;Valdemoro;False;good;False;4;Zona Estación;Unknown;True;Unknown;flat;Unknown;9.0
+323;740.0;studio;rent;33.0;True;0;1;Madrid;False;good;False;bj;Hortaleza;Canillas;True;Unknown;flat;studio;22.0
+324;750.0;flat;rent;110.0;True;4;2;Colmenar Viejo;False;good;False;1;El Mirador;Unknown;False;Unknown;flat;Unknown;7.0
+325;750.0;flat;rent;62.0;True;2;1;Madrid;False;good;False;3;Puente de Vallecas;Portazgo;False;Unknown;flat;Unknown;12.0
+326;750.0;studio;rent;70.0;True;0;1;San Sebastián de los Reyes;True;good;False;bj;Pol. Industrial sur;Unknown;True;True;flat;studio;11.0
+327;650.0;studio;rent;28.0;True;0;1;Madrid;False;good;False;bj;Ciudad Lineal;Quintana;False;Unknown;flat;studio;23.0
+328;625.0;flat;rent;51.0;True;1;1;Arganda;False;good;False;2;Centro;Unknown;True;True;flat;Unknown;12.0
+329;700.0;flat;rent;35.0;True;1;1;Madrid;False;good;False;bj;Retiro;Jerónimos;True;Unknown;flat;Unknown;20.0
+330;750.0;flat;rent;95.0;True;2;2;Colmenarejo;False;good;False;1;Unknown;Unknown;False;Unknown;flat;Unknown;8.0
+331;600.0;studio;rent;25.0;False;0;1;Madrid;False;good;False;bj;Usera;Pradolongo;False;Unknown;flat;studio;24.0
+332;750.0;flat;rent;89.0;True;2;2;Getafe;False;good;False;2;San Isidro;Unknown;True;Unknown;flat;Unknown;8.0
+333;700.0;flat;rent;55.0;True;1;1;Valdemorillo;False;good;False;1;Valdemorillo pueblo;Unknown;True;Unknown;flat;Unknown;13.0
+334;750.0;flat;rent;90.0;True;3;2;Campo Real;False;good;False;2;Unknown;Unknown;True;True;flat;Unknown;8.0
+335;750.0;flat;rent;48.0;True;2;1;Madrid;False;good;False;2;Fuencarral;Pilar;True;Unknown;flat;Unknown;16.0
+336;625.0;flat;rent;57.0;True;2;1;Aranjuez;False;good;False;bj;Centro;Unknown;False;Unknown;flat;Unknown;11.0
+337;750.0;flat;rent;46.0;True;1;1;San Sebastián de los Reyes;False;good;False;1;Centro Urbano;Unknown;False;True;flat;Unknown;16.0
+338;695.0;flat;rent;59.0;True;1;1;Madrid;True;good;False;4;Villaverde;Butarque;True;True;flat;Unknown;12.0
+339;450.0;flat;rent;40.0;True;1;1;Robledo de Chavela;False;good;False;1;Unknown;Unknown;False;Unknown;flat;Unknown;11.0
+340;720.0;flat;rent;58.0;True;2;1;Alcorcón;False;good;False;bj;Centro;Casco Antiguo;False;Unknown;flat;Unknown;12.0
+341;745.0;flat;rent;73.0;True;2;1;Alcalá de Henares;False;good;False;2;Las Sedas - El Olivar;Unknown;True;True;flat;Unknown;10.0
+342;720.0;flat;rent;69.6;True;2;1;Alcalá de Henares;False;good;False;2;Las Sedas - El Olivar;Unknown;True;True;flat;Unknown;10.0
+343;750.0;flat;rent;55.0;True;2;1;Madrid;False;good;False;1;Fuencarral;Tres Olivos - Valverde;False;Unknown;flat;Unknown;14.0
+344;720.0;studio;rent;48.0;True;0;1;Madrid;True;good;False;1;Ciudad Lineal;Concepción;True;True;flat;studio;15.0
+345;725.0;studio;rent;44.0;False;0;1;Madrid;True;good;False;8;Centro;Chueca-Justicia;True;Unknown;flat;studio;16.0
+346;750.0;flat;rent;80.0;False;2;1;Madrid;True;good;False;5;Villaverde;Butarque;True;True;flat;Unknown;9.0
+347;550.0;flat;rent;86.0;True;2;1;Torrelaguna;False;good;False;1;Unknown;Unknown;True;Unknown;flat;Unknown;6.0
+348;640.0;flat;rent;69.0;True;2;1;Villalbilla;True;good;False;2;Unknown;Unknown;True;True;flat;Unknown;9.0
+349;700.0;flat;rent;54.0;True;1;1;Getafe;False;good;False;1;Getafe Centro;Unknown;True;Unknown;flat;Unknown;13.0
+350;700.0;flat;rent;59.0;True;1;1;Madrid;True;good;False;6;Carabanchel;Pau de Carabanchel;True;True;flat;Unknown;12.0
+351;700.0;flat;rent;75.0;True;2;1;Alcalá de Henares;True;good;False;1;Pryconsa - Poligono Europa;Unknown;False;Unknown;flat;Unknown;9.0
+352;695.0;flat;rent;62.0;False;2;1;Alcobendas;True;good;False;3;Alcobendas Centro;Unknown;False;Unknown;flat;Unknown;11.0

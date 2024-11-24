@@ -12,6 +12,33 @@ import math
 # -----------------------------------------------------------------------
 import seaborn as sns
 import matplotlib.pyplot as plt
+import json
+
+
+def extract_values_parkingSpace(dictionary):
+    try:
+        if isinstance(dictionary, str):
+            dictionary = dictionary.replace("'", '"').replace("True", '"True"').replace("False", '"False"')
+
+        res = json.loads(dictionary)
+
+        hasParkingSpace = res.get('hasParkingSpace')
+        isParkingSpaceIncludedInPrice = res.get('isParkingSpaceIncludedInPrice')
+        parkingSpacePrice = res.get('parkingSpacePrice')
+
+        return hasParkingSpace, isParkingSpaceIncludedInPrice, parkingSpacePrice
+
+    except (json.JSONDecodeError, AttributeError, TypeError) as e:
+        print(f"{e}")
+        return None, None, None
+
+def extract_values_detailedType(dictionary):
+    dicc_replace = dictionary.replace('\'', '\"')
+    dicc_load = json.loads(dicc_replace)
+    typology = dicc_load.get('typology')
+
+    subTypology = dicc_load.get('subTypology')
+    return typology, subTypology
 
 def exploracion_datos(dataframe):
 
@@ -148,7 +175,7 @@ class Visualizador:
         df_numericas = self.separar_dataframes()[0].columns
         meses_ordenados = ["Jan", "Feb", "Mar", "Apr", "May", "June", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 
-        fig, axes = plt.subplots(3, int(len(self.dataframe.columns) / 3), figsize=tamano_grafica)
+        fig, axes = plt.subplots(4, int(len(self.dataframe.columns) / 3), figsize=tamano_grafica)
         axes = axes.flat
 
         for indice, columna in enumerate(self.dataframe.columns):
@@ -175,7 +202,7 @@ class Visualizador:
                     axes[indice].set_title(columna)
                     axes[indice].set(xlabel=None)
 
-        plt.tight_layout()
+        #plt.tight_layout()
     
     def analisis_temporal(self, var_respuesta, var_temporal, color = "black", order = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]):
 
