@@ -42,7 +42,7 @@ class AnalisisModelosRegresion:
         self.mejor_modelo = {modelo: None for modelo in self.modelos}
         self.resultados = None
 
-    def ajustar_modelo(self, modelo, param_grid=None):
+    def ajustar_modelo(self, modelo, param_grid=None, scoring="neg_mean_squared_error"):
         """
         Ajusta el modelo especificado usando GridSearchCV si se proporcionan hiperparámetros.
         """
